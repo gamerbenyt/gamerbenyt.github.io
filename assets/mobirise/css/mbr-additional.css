@@ -1221,7 +1221,7 @@ a:hover {
   right: 2px;
   width: 20px;
   height: 2px;
-  background-color: #ff014e;
+  background-color: #3d42f2;
 }
 .cid-txMPzYIx5I .btn-close .hamburger-offcanvas span:nth-child(1) {
   display: none;
@@ -1267,7 +1267,7 @@ a:hover {
   margin-right: auto;
   text-align: left;
   background-color: #212428;
-  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 10px 0 rgb(91 96 227 / 70%);
 }
 @media (max-width: 575px) {
   .cid-txMPzYIx5I .offcanvas-body {
@@ -1347,8 +1347,8 @@ a:hover {
   padding: 10px;
   aspect-ratio: 1;
   border-radius: 6px;
-  background: linear-gradient(145deg, #1e2024, #23272b);
-  box-shadow: 10px 10px 19px #191b1f, -10px -10px 19px #23272b;
+  background: linear-gradient(145deg, #4369b7, #011991);
+  box-shadow: 10px 10px 19px #3939989e, -10px -10px 19px #23272b;
   transition: 0.4s all;
 }
 .cid-txMPzYIx5I .soc-item:before {
