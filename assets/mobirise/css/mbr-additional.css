@@ -455,7 +455,7 @@ body {
   border-color: #c4cfde !important;
 }
 .text-primary {
-  color: #ff014e !important;
+  color: #5c53f3 !important;
 }
 .text-secondary {
   color: #6b67ce !important;
@@ -481,7 +481,7 @@ body {
 a.text-primary:hover,
 a.text-primary:focus,
 a.text-primary.active {
-  color: #9a002f !important;
+  color: #8481ff !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus,
@@ -743,11 +743,11 @@ a:hover {
   align-items: baseline;
 }
 .custom-section-btn .btn-black {
-  color: #ff014e !important;
+  color: #5653ef !important;
   background: linear-gradient(145deg, #1e2024, #23272b) !important;
 }
 .custom-section-btn .btn-black:hover {
-  color: #ff014e !important;
+  color: #010dff !important;
   background: linear-gradient(to right bottom, #212428, #16181c) !important;
   transform: translateY(-5px);
 }
@@ -1170,7 +1170,7 @@ a:hover {
   right: 2px;
   width: 20px;
   height: 2px;
-  background-color: #144dd0;
+  background-color: #4d60df;
 }
 .cid-txMPzYIx5I button.btn_offcanvas .hamburger-offcanvas span:nth-child(1) {
   top: 6px;
@@ -1690,7 +1690,7 @@ a:hover {
   border-radius: 50%;
   width: 100%;
   aspect-ratio: 1;
-  background-color: #ff014e;
+  background-color: #647de1;
 }
 .cid-tzKyhFeHPP .icon-wrap:after {
   content: "";
@@ -1702,7 +1702,7 @@ a:hover {
   border-radius: 50%;
   width: calc(100% + 20px);
   aspect-ratio: 1;
-  background: rgba(255, 1, 78, 0.2);
+  background: rgb(125 145 226 / 20%);
 }
 .cid-tzKyhFeHPP .mbr-section-title {
   color: #FFFFFF;
@@ -1733,7 +1733,7 @@ a:hover {
 }
 .cid-tzKyhFeHPP .iconfont-wrapper .mbr-iconfont {
   font-size: 24px;
-  color: #ff014e;
+  color: #5767c9;
 }
 .cid-tzKyhFeHPP .list-item-text {
   color: #C4CFDE;
